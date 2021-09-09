@@ -1,0 +1,14 @@
+.btn {
+  background-color: beige;
+  padding: 1%;
+  border-radius: 10px;
+}
+
+/* The method to write media query ( different css for different screen size)*/
+@media only screen and (max-width: 768px) {
+  .btn {
+    background-color: rgb(252, 8, 0);
+    padding: 1%;
+    border-radius: 10px;
+  }
+}
