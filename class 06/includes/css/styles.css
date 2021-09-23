@@ -1,0 +1,29 @@
+.bg-customcolor {
+
+background-color: #1cede9 !important;
+
+
+}
+
+.bg-customcolor a {
+
+color: #ffffff;
+font-weight: bold;
+
+}
+
+
+.login{
+
+padding: 3%;
+
+box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+
+}
+
+label{
+
+    font-weight: bold;
+    color: #f7620c;
+}
